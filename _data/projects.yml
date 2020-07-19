@@ -1,8 +1,23 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Programmer's productivity analyser
+  link: https://github.com/venuprasadnaik/Plugin-to-find-programmers-efficiency-for-c-Language-in-eclipse-IDE
+  github: https://github.com/venuprasadnaik/Plugin-to-find-programmers-efficiency-for-c-Language-in-eclipse-IDE
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    This is probably one of the greatest project ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    It's an automated tool designed to find programmer’s productivity, 
+    which considers the parameters such as, usage of memory and machine cycles or frequently used constructs. 
+    Which results is differentiating between programmer’s who can write codes giving required output, and codes making efficient usage of memory and CPU(machine cycles involved in computations). 
+    We've used certain predefined patterns for programming structures(loops, conditional statements etc.) on which the tool is applied to know a programmer's productivity
+- layout: top-middle
+  name: Smart Home Automation
+  link: https://github.com/venuprasadnaik/Smart-Home-Automation
+  github: https://github.com/venuprasadnaik/Smart-Home-Automation
+  description: | # this will include new lines to allow paragraphs
+    Our project basically deals with the controlling of the home appliances with the android app and the security one can provide to its residents. 
+    The owner of the house can monitor the log history as to who locked and unlocked the door along with the timings. 
+    The overall idea is to make ones job easier and to reduce energy wastage as of forgetting the turning off of appliances which in turn lead to energy loss.
+
+
+
+
