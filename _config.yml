@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Venuprasad Naik
 title: Core Java Developer
 email: vpnaik97@gmail.com
-website: venuprasad.github.io
+website: about.me/venuprasadnaik
 
 # Social links
 twitter_username: venuprasad_naik
@@ -24,9 +24,13 @@ linkedin_username: venuprasad
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Venuprasad and I'm a Core Java Developer. I also have experience making software and web apps. I have worked at a number of projects gaining teamwork and collaboration skills.
+  Hi there, 
+  
+  I'm Venuprasad a Programmer. I have experience making software and web apps. I have worked at a number of projects gaining teamwork and collaboration skills.
 
   I am most skilled in: <mark>Core Java</mark> and <mark>Spring Framework</mark>
+  
+
 
 # Projects Section
 # projects_title: Projects
@@ -45,6 +49,7 @@ more_content: | # this will include new lines to allow paragraphs
    - Mobile Gaming
    - Cricket
    - Watching F1
+   - Conan Show
 
 # Footer
 footer_show_references: true
