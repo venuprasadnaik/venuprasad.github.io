@@ -1,5 +1,5 @@
 # Portfolio website
 
-by  <a href="https://github.com/akshay2211" rel="akshay2211">Akshay Sharma</a>
+by  <a href="https://github.com/venuprasadnaik" rel="venuprasadnaik">Venuprasad Naik</a>
 
- <a href="https://akshay2211.github.io/" rel="akshay2211">![](img/banner.jpg)</a>
+ <a href="https://github.com/venuprasadnaik" rel="venuprasadnaik">![](img/banner.jpg)</a>
