@@ -16,9 +16,6 @@ var socialtags = [{
     img: "img/stackoverflow.svg",
     link: "https://www.stackoverflow.com/story/venuprasad"
 }, {
-    img: "img/twitter.svg",
-    link: "https://twitter.com/venuprasad_naik"
-}, {
     img: "img/download-cloud.svg",
     link: "resume/Venuprasad_Naik.pdf"
 }]
